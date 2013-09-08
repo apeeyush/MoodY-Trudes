@@ -1,4 +1,4 @@
-hackU
+MoodY! Trudes
 =====
 
 The basic purpose of this application is to analyse the moods of a person over a certain period of time based on his updates on any social media platform. Based on this, it will plot a graph of the person’s mood swings against time (the graph was made using YUI). It was also used to suggest music and images to a person according to his/her mood in the Yahoo HackU competition.
